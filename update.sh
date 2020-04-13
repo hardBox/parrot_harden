@@ -11,3 +11,6 @@ sudo apt-get install shotwell
 sudo apt-get install chromium
 curl --remote-name https://prerelease.keybase.io/keybase_amd64.deb
 sudo apt install ./keybase_amd64.deb
+
+sudo apt install secure-delete
+sudo apt install wipe
